@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Project-specific (Generated data)
+glossary.json
+notes.json
+extracted_text/
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
